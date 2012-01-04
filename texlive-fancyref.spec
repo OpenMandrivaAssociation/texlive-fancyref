@@ -6,7 +6,7 @@
 # catalog-version 0.9c
 Name:		texlive-fancyref
 Version:	0.9c
-Release:	1
+Release:	2
 Summary:	A LaTeX package for fancy cross-referencing
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fancyref
