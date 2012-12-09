@@ -54,3 +54,17 @@ label for a \section would be expected to be of the form
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.9c-2
++ Revision: 751789
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.9c-1
++ Revision: 718416
+- texlive-fancyref
+- texlive-fancyref
+- texlive-fancyref
+- texlive-fancyref
+
