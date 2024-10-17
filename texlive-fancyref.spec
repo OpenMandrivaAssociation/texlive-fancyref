@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	A LaTeX package for fancy cross-referencing
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fancyref
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fancyref
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fancyref.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fancyref.doc.r%{version}.tar.xz
